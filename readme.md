@@ -1,0 +1,2 @@
+# boombot
+a shitty discord bot i wrote to feed commands to another discord bot before i found out that the receiving bot won't accept commands from another bot and also that the receiving bot already had the functionality that i was trying to implement
